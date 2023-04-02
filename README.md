@@ -49,3 +49,11 @@ There are some more problems presented by the company which your model should be
 - Lead Add Form generates qualifying leads and should be used across key areas.
 - Sales team should focus on working professionals for higher conversions.
 - Leads with a Lead Score >0.35 tend to convert more and model accuracy score is 91%
+
+
+## Author
+
+Monish Lalani
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-lalani/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishlalani12@gmail.com)  
